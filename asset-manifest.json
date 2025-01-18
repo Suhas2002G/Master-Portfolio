@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Master-Portfolio/static/css/main.adad041e.css",
+    "main.js": "/Master-Portfolio/static/js/main.041b539f.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Master-Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Master-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/society360.png": "/Master-Portfolio/static/media/society360.3a13ed63d7e7b3f48947.png",
+    "static/media/suicide.png": "/Master-Portfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/home-main.svg": "/Master-Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Master-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/logistic.webp": "/Master-Portfolio/static/media/logistic.85c2427fea7da3b7bd48.webp",
+    "static/media/ecom.png": "/Master-Portfolio/static/media/ecom.ec5f12970234a3d5b0fb.png",
+    "static/media/SuhasResume.pdf": "/Master-Portfolio/static/media/SuhasResume.e42a4abe94116bc3447e.pdf",
+    "static/media/blog.jpg": "/Master-Portfolio/static/media/blog.2cdaa7209d09093c7a55.jpg",
+    "static/media/home-bg.jpg": "/Master-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Master-Portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/Master-Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Master-Portfolio/index.html",
+    "main.adad041e.css.map": "/Master-Portfolio/static/css/main.adad041e.css.map",
+    "main.041b539f.js.map": "/Master-Portfolio/static/js/main.041b539f.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Master-Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Master-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adad041e.css",
+    "static/js/main.041b539f.js"
+  ]
+}
