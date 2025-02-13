@@ -21,14 +21,43 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+
+
+        <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={editor}
+              isBlog={false}
+              title="Society 360"
+              description="Society 360 is a comprehensive Society Management System designed to streamline the operations of residential communities. It provides a centralized platform for owners to manage notices, pay maintenance, and book amenities, while offering admins efficient tools for managing notices, payments, & complaints. With features like Razorpay integration."
+              ghLink="https://github.com/Suhas2002G/Society-View"
+              demoLink="https://editor.soumya-jit.tech/"              
+            />
+          </Col>
+
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
               title="Santa's Treasure"
-              description="The Logistics Tracker System is designed to provide order tracking and management of shipments, ensuring efficient monitoring of goods in transit. It offers features like estimated delivery times, and route optimization. This system enhances transparency, improves delivery accuracy, and helps businesses streamline their logistics operations."
+              description="Santa's Treasure is a web application designed to simulate Santa’s gift delivery logistics. The application optimizes the delivery route, allows users to select and pay for gifts, and provides an admin dashboard for real-time logistics monitoring. The system also integrates Razorpay for secure payment processing and includes OTP verification for deliveries, ensuring that orders are only marked as Delivered when the correct OTP is entered by the delivery partner."
               ghLink="https://github.com/Suhas2002G/Santa-Treasure"
               demoLink="https://chatify-49.web.app/"
+            />
+          </Col>
+
+          
+
+          
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={leaf}
+              isBlog={false}
+              title="Blog-Crafters"
+              description="Blog-Crafters is a dynamic platform designed to empower bloggers by offering tools for creating, managing, and sharing engaging content. With user-friendly templates, it simplifies the blogging process. Whether you're a beginner or an experienced writer, Blog-Crafters helps bring your ideas to life and connect with readers effortlessly."
+              ghLink="https://github.com/Suhas2002G/Blog-Crafters"
+              demoLink="https://plant49-ai.herokuapp.com/"
             />
           </Col>
 
@@ -40,28 +69,6 @@ function Projects() {
               description="The ShopSphere website offers a seamless shopping experience with a wide range of products and secure payment gateway integration for smooth transactions. It includes email integration for order confirmations, shipping updates. The platform ensures user-friendly navigation, an intuitive checkout process, and fast, reliable delivery services."
               ghLink="https://github.com/Suhas2002G/Ecommerce"
               demoLink="https://blogs.soumya-jit.tech/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={editor}
-              isBlog={false}
-              title="Society 360"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/Suhas2002G/Society-View"
-              demoLink="https://editor.soumya-jit.tech/"              
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={leaf}
-              isBlog={false}
-              title="Blog-Crafters"
-              description="Blog-Crafters is a dynamic platform designed to empower bloggers by offering tools for creating, managing, and sharing engaging content. With user-friendly templates, it simplifies the blogging process. Whether you're a beginner or an experienced writer, Blog-Crafters helps bring your ideas to life and connect with readers effortlessly."
-              ghLink="https://github.com/Suhas2002G/Blog-Crafters"
-              demoLink="https://plant49-ai.herokuapp.com/"
             />
           </Col>
 
